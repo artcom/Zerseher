@@ -38,6 +38,7 @@ The visual effect used in the Zerseher is coded in Processing. To get it running
 
 The cloth simulation is based on:
 "Curtain" by Jared Counts, licensed under Creative Commons Attribution-Share Alike 3.0 and GNU GPL license.
+
 Work: http://www.openprocessing.org/sketch/20140 
 
 License:
