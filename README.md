@@ -8,10 +8,10 @@ The piece was redesigned in 2014 by Raphaël de Courville and Dimitar Ruszev und
 
 # Credits
 Zerseher, 2014  
-*Artist:* Joachim Sauter  
-*Computational design:* Raphaël de Courville, Dimitar Ruszev  
-*Software development:* Sinan Goo, Teemu Kallio  
-*Construction:* Marcus Heyden  
+**Artist:** Joachim Sauter  
+**Computational design:** Raphaël de Courville, Dimitar Ruszev  
+**Software development:** Sinan Goo, Teemu Kallio  
+**Construction:** Marcus Heyden  
 Commissioned by Berlin Akademie der Künste for the exhibition “Schwindel der Wirklichkeit”, September 17 – December 14, 2014
 
 More: http://artcom.de/de/blog/on-the-development-of-the-new-zerseher/
