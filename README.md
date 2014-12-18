@@ -8,6 +8,8 @@ The Zerseher is a pioneering interactive installation created by Joachim Sauter 
 
 The piece was redesigned in 2014 by Raphaël de Courville and Dimitar Ruszev under the direction of Joachim Sauter.
 
+More: http://artcom.de/de/blog/on-the-development-of-the-new-zerseher/
+
 ## Credits
 Zerseher, 2014  
 **Artist:** Joachim Sauter  
@@ -15,8 +17,6 @@ Zerseher, 2014
 **Software development:** Sinan Goo, Teemu Kallio  
 **Construction:** Marcus Heyden  
 Commissioned by Berlin Akademie der Künste for the exhibition “Schwindel der Wirklichkeit”, September 17 – December 14, 2014
-
-More: http://artcom.de/de/blog/on-the-development-of-the-new-zerseher/
 
 ## Notes
 The interactive part of the code has been modified to run as a standalone application, with the mouse cursor replacing the gaze-tracking of the real installation.
