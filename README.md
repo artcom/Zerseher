@@ -1,5 +1,5 @@
 
-Torn eye effect used in the new Zerseher.
+Torn eye effect used in the new Zerseher, 2014.
 
 # Zerseher
 The Zerseher is a pioneering interactive installation created by Joachim Sauter & Dirk Lüsebrink in 1990.
@@ -7,12 +7,11 @@ The Zerseher is a pioneering interactive installation created by Joachim Sauter 
 The piece was redesigned in 2014 by Raphaël de Courville and Dimitar Ruszev under the direction of Joachim Sauter.
 
 # Credits
-Zerseher, 2014
-
-Artist: Joachim Sauter  
-Computational design: Raphaël de Courville, Dimitar Ruszev  
-Software development: Sinan Goo, Teemu Kallio  
-Construction: Marcus Heyden  
+Zerseher, 2014  
+*Artist:* Joachim Sauter  
+*Computational design:* Raphaël de Courville, Dimitar Ruszev  
+*Software development:* Sinan Goo, Teemu Kallio  
+*Construction:* Marcus Heyden  
 Commissioned by Berlin Akademie der Künste for the exhibition “Schwindel der Wirklichkeit”, September 17 – December 14, 2014
 
 More: http://artcom.de/de/blog/on-the-development-of-the-new-zerseher/
