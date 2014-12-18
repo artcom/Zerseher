@@ -1,7 +1,7 @@
 
 “Torn eye” effect used in the new Zerseher, 2014.
 
-![Torn eye](/Screenshots/zehrseher.png "Tearing the eye")
+![Torn eye](Screenshots/zehrseher.png "Tearing the eye")
 
 # The Zerseher
 The Zerseher is a pioneering interactive installation created by Joachim Sauter & Dirk Lüsebrink in 1990.
