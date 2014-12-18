@@ -3,12 +3,12 @@
 
 ![Torn eye](https://github.com/artcom/Zerseher/blob/master/Screenshots/zerseher.png "Tearing the eye")
 
-# The Zerseher
+## The Zerseher
 The Zerseher is a pioneering interactive installation created by Joachim Sauter & Dirk Lüsebrink in 1990.
 
 The piece was redesigned in 2014 by Raphaël de Courville and Dimitar Ruszev under the direction of Joachim Sauter.
 
-# Credits
+## Credits
 Zerseher, 2014  
 **Artist:** Joachim Sauter  
 **Computational design:** Raphaël de Courville, Dimitar Ruszev  
@@ -18,11 +18,10 @@ Commissioned by Berlin Akademie der Künste for the exhibition “Schwindel der 
 
 More: http://artcom.de/de/blog/on-the-development-of-the-new-zerseher/
 
-
-# Notes
+## Notes
 The interactive part of the code has been modified to run as a standalone application, with the mouse cursor replacing the gaze-tracking of the real installation.
 
-# How to run it?
+## How to run it?
 The visual effect used in the Zerseher is coded in Processing. To get it running on your computer, follow those simple steps:
 
 1. Download the (Processing)[https://processing.org/ "processing.org"] environment
@@ -31,8 +30,12 @@ The visual effect used in the Zerseher is coded in Processing. To get it running
 
 “Processing is a programming language and development environment aimed at students, artists, designers, researchers, and hobbyists. Initially created to serve as a software sketchbook and to teach computer programming fundamentals within a visual context, Processing evolved into a development tool for professionals.”
 
-# About the code
+## Controls
+* Press 'R' to reset the simulation
+* Press 'T' to toggle the time adjustment
+* Press 'G' to toggle gravity
 
+## About the code
 The cloth simulation is based on:
 "Curtain" by Jared Counts, licensed under Creative Commons Attribution-Share Alike 3.0 and GNU GPL license.
 

@@ -370,11 +370,9 @@ PVector getST(PVector p, PVector v0, PVector v1) {
   return new PVector((p.x - v0.x)/(v1.x - v0.x), (p.y - v0.y)/(v1.y - v0.y));
 }
 
-/*
-void handleEvent(CCStateEvent theEvent) {
-  super.handleEvent(theEvent);
-  if (theEvent.id().equals(Events.Keyboard.toString())) {
-    switch (((String)theEvent.parameter("key")).charAt(0)) {
+
+void keyPressed() {
+    switch (key) {
       case 'r':
         currentInnerResistanceFactor = originalInnerResistanceFactor;
         currentOuterResistanceFactor = originalOuterResistanceFactor;
@@ -389,6 +387,5 @@ void handleEvent(CCStateEvent theEvent) {
         toggleGravity();
         break;
     }
-  }
 }
-*/
+
