@@ -24,9 +24,9 @@ The interactive part of the code has been modified to run as a standalone applic
 ## How to run it?
 The visual effect used in the Zerseher is coded in Processing. To get it running on your computer, follow those simple steps:
 
-1. Download the (Processing)[https://processing.org/ "processing.org"] environment
-2. Open any of the .pde files included to open 
-3. In Processing, click on the "run" button or go to Sketch>Run
+1. Download the Processing environment: https://processing.org/
+2. Open any of the .pde files in the `DeviewStandalone` directory
+3. In Processing, click on the `run` button or go to `Sketch>Run`
 
 “Processing is a programming language and development environment aimed at students, artists, designers, researchers, and hobbyists. Initially created to serve as a software sketchbook and to teach computer programming fundamentals within a visual context, Processing evolved into a development tool for professionals.”
 
